@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
